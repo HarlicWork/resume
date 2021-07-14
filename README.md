@@ -1,3 +1,3 @@
 # resume
 
-Resume code in works!
+This is about me site
